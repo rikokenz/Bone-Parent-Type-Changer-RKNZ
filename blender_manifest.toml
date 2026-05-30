@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "bone_parent_changer_rknz"
+name = "Bone Parent Type Changer RKNZ"
+version = "1.0.0"
+tagline = "Manage bone parent connections (Connected/Offset) in Pose and Edit Mode"
+maintainer = "Rikokenz <https://github.com/rikokenz>"
+type = "add-on"
+website = "https://github.com/rikokenz/QuickPathRKNZ"
+
+tags = ["Animation"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
