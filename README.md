@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-BoneParentTypeChangerRKNZ
+Bone Parent Type Changer RKNZ
 </h1>
 
 Manage bone parent connections (Connected/Offset) in Pose and Edit Mode
