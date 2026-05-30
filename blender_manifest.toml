@@ -6,7 +6,7 @@ version = "1.0.0"
 tagline = "Manage bone parent connections (Connected/Offset) in Pose and Edit Mode"
 maintainer = "Rikokenz <https://github.com/rikokenz>"
 type = "add-on"
-website = "https://github.com/rikokenz/QuickPathRKNZ"
+website = "https://github.com/rikokenz/Bone-Parent-Type-Changer-RKNZ"
 
 tags = ["Animation"]
 
